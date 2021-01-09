@@ -1,4 +1,4 @@
-[![Udacity - Robotics NanoDegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
+
 
 # odom_to_trajectory
 A ROS Package that subscribes to odometry values and publishes trajectories. This package will append the odometry values generated over time into vector of values. 
